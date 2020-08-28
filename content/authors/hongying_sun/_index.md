@@ -28,7 +28,7 @@ education:
   courses:
   - course: PhD in Biology
     institution: University of Rochester
-    year: 2018
+    year: 2019
   - course: MS in Biology
     institution: University of Rochester
     year: 2015
